@@ -10,4 +10,6 @@ const HomePage = () => {
     </div>
 )};
 
+// Can also do shortcut () => (), the parenthesis indicates return
+
 export default HomePage;
