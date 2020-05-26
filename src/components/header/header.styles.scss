@@ -14,12 +14,14 @@
   .options {
     width: 50%;
     height: 100%;
+    font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
     }
   }
 }
